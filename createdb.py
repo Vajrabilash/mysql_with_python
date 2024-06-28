@@ -9,3 +9,5 @@ mycursor.execute("SHOW DATABASES") 			#query to show databases
 				
 for x in mycursor:
 	print(x)			#printing the databases using for loops
+
+#program ends here
