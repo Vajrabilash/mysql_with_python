@@ -1,3 +1,5 @@
+# program begins here
+
 import mysql.connector as mc   # importing required modules 
 mydb = mc.connect(host='localhost', user='root', password='Jesusabhi@0399')  #connecting database
 mycursor = mydb.cursor()
